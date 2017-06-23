@@ -1,0 +1,29 @@
+{
+  "name": "azure-slack-bot",
+  "version": "1.0.0",
+  "description": "https://blog.powerupcloud.com/building-bots-using-microsoft-bot-framework-and-nodejs-604047ca15c",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satsumaimoskype/azure-slack-bot.git"
+  },
+  "keywords": [
+    "azure",
+    "github",
+    "slack",
+    "bot"
+  ],
+  "author": "imakiire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satsumaimoskype/azure-slack-bot/issues"
+  },
+  "homepage": "https://github.com/satsumaimoskype/azure-slack-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^4.3.0"
+  }
+}
